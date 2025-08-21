@@ -145,4 +145,4 @@ We trained and tested 3 multi-class classifiers (one for each language) based on
 
 The summary of the baseline results is provided in `baseline_results_summary.csv`.
 
-We provide a notebook to train our baseline classifiers and to run the evaluations [locally](SetFit_baseline.ipynb) and on [Google Colab](XXX) (note that the final evaluation and score calculation needs to be performed on Google Colab and the notebook needs to be shared as well).
+We provide a notebook to train our baseline classifiers and to run the evaluations [locally](SetFit_baseline.ipynb) and on [Google Colab](https://colab.research.google.com/drive/1QlfXoEeDV2i1RR1yg04lZkLejDGMp9R6?usp=sharing) (note that the final evaluation and score calculation needs to be performed on Google Colab and the notebook needs to be shared as well).
